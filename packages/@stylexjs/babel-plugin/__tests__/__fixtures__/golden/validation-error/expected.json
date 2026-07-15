@@ -1,7 +1,7 @@
 {
   "entry": "input.js",
   "error": {
-    "message": "<FIXTURE_ROOT>/input.js: create() can only accept an object.\n  1 | import * as stylex from '@stylexjs/stylex';\n  2 |\n> 3 | export const styles = stylex.create(1);\n    |                       ^^^^^^^^^^^^^^^^\n  4 |",
+    "message": "<FIXTURE_ROOT>/input.js: create() can only accept an object.\n   8 | import * as stylex from '@stylexjs/stylex';\n   9 |\n> 10 | export const styles = stylex.create(1);\n     |                       ^^^^^^^^^^^^^^^^\n  11 |",
     "name": "SyntaxError"
   },
   "errors": [],

@@ -1,5 +1,5 @@
 {
-  "code": "import * as stylex from '@stylexjs/stylex';\nexport const styles = {\n  root: {\n    kWkggS: \"xrkmrrc\",\n    kMwMTN: \"xju2f9n\",\n    $$css: true\n  }\n};",
+  "code": "/**\n * Copyright (c) Meta Platforms, Inc. and affiliates.\n *\n * This source code is licensed under the MIT license found in the\n * LICENSE file in the root directory of this source tree.\n */\n\nimport * as stylex from '@stylexjs/stylex';\nexport const styles = {\n  root: {\n    kWkggS: \"xrkmrrc\",\n    kMwMTN: \"xju2f9n\",\n    $$css: true\n  }\n};",
   "entry": "input.js",
   "errors": [],
   "finalCss": ".xrkmrrc{background-color:red}\n.xju2f9n{color:blue}",

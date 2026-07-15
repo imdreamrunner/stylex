@@ -1,5 +1,5 @@
 {
-  "code": "export const value = 1;",
+  "code": "/**\n * Copyright (c) Meta Platforms, Inc. and affiliates.\n *\n * This source code is licensed under the MIT license found in the\n * LICENSE file in the root directory of this source tree.\n */\n\nexport const value = 1;",
   "entry": "input.js",
   "errors": [
     "[@stylexjs/babel-plugin] Expected (options.enableFontSizePxToRem) to be a boolean, but got `\"true\"`."
